@@ -11,6 +11,7 @@ The project is containerized using Docker to eliminate the need for users to ins
 
 Users can download YouTube videos by running a provided shell script with the video link as an argument.
 
+
 ## Prerequisites:
 Docker
 
@@ -32,4 +33,11 @@ Navigate to the project directory:
 cd  Youtube_video_downloader
 ```
 
+## To download a youtube video run:
+
+   ```bash
+    
+ ./download_video.sh <put your URL youtube link here>
+```
+ 
 
