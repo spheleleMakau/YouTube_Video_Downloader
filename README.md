@@ -33,11 +33,23 @@ Navigate to the project directory:
 cd  Youtube_video_downloader
 ```
 
+## build your image
+
+
+   ```bash
+    sudo docker build -t youtube_video_downloader .
+```
+
+
+
 ## To download a youtube video run:
 
    ```bash
     
  ./download_video.sh <put your URL youtube link here>
 ```
+
+## See The Magic on "downloaded" folder of this directory
+# Enjoy your videos offline !!!!!!!!!!!
  
 
