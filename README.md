@@ -29,7 +29,7 @@ Navigate to the project directory:
 ```bash
     
   
-cd youtube_video_downloader
+cd  Youtube_video_downloader
 ```
 
 
