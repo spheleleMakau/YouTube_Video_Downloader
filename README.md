@@ -13,6 +13,8 @@ Users can download YouTube videos by running a provided shell script with the vi
 
 
 ## Prerequisites:
+Linux/ Mac OS
+
 Docker
 
 ## Installation:
@@ -50,6 +52,16 @@ cd  Youtube_video_downloader
 ```
 
 ## See The Magic on "downloaded" folder of this directory
+The downloaded videos will be available in the 'downloaded' folder within the project directory.
 # Enjoy your videos offline !!!!!!!!!!!
+
+## Contributing
+Contributions are welcome! If you have any improvements or suggestions, feel free to create a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+
  
 
