@@ -17,12 +17,19 @@ Docker
 ## Installation:
 Clone this repository:
 
-git clone https://github.com/spheleleMakau/YouTube_Video_Downloader.git
+  ```bash
+    
+    git clone https://github.com/spheleleMakau/YouTube_Video_Downloader.git
+```
+
+
 
 Navigate to the project directory:
 
-bash
+```bash
+    
+  
+cd youtube_video_downloader
+```
 
-Copy code
 
-cd youtube-video-downloader
